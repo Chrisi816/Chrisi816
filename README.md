@@ -2,7 +2,7 @@
 #### Development
 ![Development](https://cdn.discordapp.com/attachments/861993576116256812/884116497604149320/usevenlifebanner.png)
 
-   ![GitHub metrics](https://metrics.lecoq.io/Chrisi816)
+![GitHub metrics](https://metrics.lecoq.io/Chrisi816)
 
 
 Skills: HTML / CSS / JS / LUA
@@ -15,14 +15,10 @@ Skills: HTML / CSS / JS / LUA
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chrisi816)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisi816)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisi816&show_icons=true&count_private=true)  
 
-  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Chrisi816)  
 
 ![Profile views](https://gpvc.arturio.dev/Chrisi816)  

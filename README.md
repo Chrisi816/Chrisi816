@@ -22,7 +22,6 @@ Skills: HTML / CSS / JS / LUA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisi816&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph align="center](https://activity-graph.herokuapp.com/graph?username=Chrisi816)  
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Chrisi816)  
 

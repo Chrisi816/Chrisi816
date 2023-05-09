@@ -5,7 +5,6 @@
 Skills: HTML / CSS / JS / LUA / C#
 - 🔭 I’m currently working on the German Fivem Network SevenLifeRP 
 - 🔭 I’m also currently working on the German Network "NOXANS"
-- 
 # Stats
 
 ![GitHub metrics](https://metrics.lecoq.io/Chrisi816)

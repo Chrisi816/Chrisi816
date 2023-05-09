@@ -2,9 +2,10 @@
 ## Development
 ![Development](https://cdn.discordapp.com/attachments/861993576116256812/884116497604149320/usevenlifebanner.png)
 
-Skills: HTML / CSS / JS / LUA
+Skills: HTML / CSS / JS / LUA / C#
 - 🔭 I’m currently working on the German Fivem Network SevenLifeRP 
-
+- 🔭 I’m also currently working on the German Network "NOXANS"
+- 
 # Stats
 
 ![GitHub metrics](https://metrics.lecoq.io/Chrisi816)

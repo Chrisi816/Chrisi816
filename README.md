@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / LUA / C#
 
 ![GitHub metrics](https://metrics.lecoq.io/Chrisi816)
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisi816)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisi816)](https://github.com/Chrisi816/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisi816&show_icons=true&count_private=true)  
 

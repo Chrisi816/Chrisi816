@@ -2,13 +2,13 @@
 ## Development
 
 Skills: HTML / CSS / JS / LUA / C#
-- 🔭 I’m currently working on the German Fivem Network SevenLifeRP 
+- 🔭 I'm currently working at S-Service, a development service provider specializing in websites, scripting, and applications.
 - 🔭 I’m also currently working on the German Network "NOXANS"
 # Stats
 
 ![GitHub metrics](https://metrics.lecoq.io/Chrisi816)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisi816)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisi816)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisi816&show_icons=true&count_private=true)  
 

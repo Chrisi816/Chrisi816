@@ -6,13 +6,9 @@ Skills: HTML / CSS / JS / LUA / C#
 - 🔭 I’m also currently working on the German Network "NOXANS"
 # Stats
 
-![GitHub metrics](https://metrics.lecoq.io/Chrisi816)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisi816)](https://github.com/Chrisi816/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisi816&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/Chrisi816) 
 
 ## Social Media
 

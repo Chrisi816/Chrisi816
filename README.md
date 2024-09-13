@@ -1,4 +1,4 @@
-# Hi there 👋, My Name is Chrisi
+# Hi there 👋, My Name is Christian
 ## Development
 
 Skills: HTML / CSS / JS / LUA / C#

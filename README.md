@@ -2,8 +2,8 @@
 ## Development
 
 Skills: HTML / CSS / JS / LUA / C#
-- 🔭 I'm currently working at S-Service, a development service provider specializing in websites, scripting, and applications.
-- 🔭 I’m also currently working on the German Network "NOXANS"
+- 🔭 I'm currently working for S-Service, a development service provider specialising in websites, scripting and applications.
+  
 # Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisi816)](https://github.com/Chrisi816/github-readme-stats)

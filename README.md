@@ -1,36 +1,67 @@
-<div align="left">
+<p align="center">
+  <img src="./assets/banner.png" alt="Christian — Developer at S-Service. Game systems, web interfaces, community tools." width="100%" />
+</p>
 
-# Hi there 👋, My Name is Christian
+<p align="center">
+  <a href="https://github.com/Chrisi816"><img src="https://img.shields.io/badge/Chrisi816-101820?style=for-the-badge&logo=github&logoColor=57E7D7" alt="GitHub: Chrisi816" /></a>
+  <a href="https://discord.gg/s-service"><img src="https://img.shields.io/badge/S--Service-101820?style=for-the-badge&logo=discord&logoColor=57E7D7" alt="S-Service Discord" /></a>
+</p>
 
-Currently working on S-Service, a development service provider specialising in websites, scripting and applications.
+### A little about me
 
-## Skills: 
-<img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
-<img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
-<img src="https://img.shields.io/badge/discord.js-black?style=for-the-badge&logo=discord" alt="discord.js">
-<img src="https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose" alt="mongoose">
-<img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
-<img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb" alt="mongodb">
+I'm **Christian**, a Computer Science student at **TU Dortmund** and the owner & developer of **S-Service**.
 
-## Tools
+I build **FiveM resources, Discord bots, and web interfaces** — connecting the logic behind a system with the experience people actually use. My projects span character creation, gameplay systems, server tools, and custom UIs.
 
-<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
+- **Building:** FiveM resources and modular Discord bot systems.
+- **Working with:** Lua, JavaScript, databases, and custom interfaces.
+- **Interested in:** reusable components, clean integrations, and the details that make software feel good.
 
-## Social Media
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chrisi816)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ytchrisi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Official_Syndro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/2608fYXxsQ5ovJFDJ2JJ3A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Offiziall_Syndro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/2vRuP6cVGr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](Chrisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/7life_chrisi)  
+### Selected work
 
-</div>
+| Area | What I build |
+| :--- | :--- |
+| **FiveM · S-Service** | Character creation, HUDs, housing, fishing, and server resources with configurable framework integrations. |
+| **UI & interaction** | Custom game interfaces, radial menus, job centers, and reusable UI elements. |
+| **Discord tooling** | Modular bots with welcome flows, verification, tickets, and community management features. |
 
+**Frameworks:** ESX · QBCore · Qbox · vRP
 
+---
 
- 
+### Technologies
 
- 
+**Languages & frontend**
+
+![Lua](https://img.shields.io/badge/Lua-101820?style=for-the-badge&logo=lua&logoColor=57E7D7)
+![JavaScript](https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript&logoColor=57E7D7)
+![Java](https://img.shields.io/badge/Java-101820?style=for-the-badge)
+![C Sharp](https://img.shields.io/badge/C%23-101820?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-101820?style=for-the-badge&logo=html5&logoColor=57E7D7)
+![CSS3](https://img.shields.io/badge/CSS3-101820?style=for-the-badge)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-101820?style=for-the-badge&logo=nodedotjs&logoColor=57E7D7)
+![Discord.js](https://img.shields.io/badge/Discord.js-101820?style=for-the-badge&logo=discord&logoColor=57E7D7)
+![MySQL](https://img.shields.io/badge/MySQL-101820?style=for-the-badge&logo=mysql&logoColor=57E7D7)
+![MongoDB](https://img.shields.io/badge/MongoDB-101820?style=for-the-badge&logo=mongodb&logoColor=57E7D7)
+![Mongoose](https://img.shields.io/badge/Mongoose-101820?style=for-the-badge&logo=mongoose&logoColor=57E7D7)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-101820?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-101820?style=for-the-badge&logo=git&logoColor=57E7D7)
+![GitHub](https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=57E7D7)
+![Figma](https://img.shields.io/badge/Figma-101820?style=for-the-badge&logo=figma&logoColor=57E7D7)
+
+---
+
+<p align="center">
+  <b>Got a project in mind?</b><br />
+  Find me through <a href="https://discord.gg/s-service">S-Service</a>.
+</p>
+
+<p align="center"><sub>BUILD. REFINE. SHIP.</sub></p>

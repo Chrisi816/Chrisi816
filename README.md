@@ -10,7 +10,7 @@ I'm **Christian**, a Computer Science student at **TU Dortmund** and the owner &
 I build **FiveM resources, Discord bots, and web interfaces** — connecting the logic behind a system with the experience people actually use. My projects span character creation, gameplay systems, server tools, and custom UIs.
 
 - **Building:** FiveM resources and modular Discord bot systems.
-- **Working with:** Lua, JavaScript, databases, and custom interfaces.
+- **Working with:** Lua, JavaScript, WebGL, databases, and custom interfaces.
 - **Interested in:** reusable components, clean integrations, and the details that make software feel good.
 
 ---
@@ -20,6 +20,7 @@ I build **FiveM resources, Discord bots, and web interfaces** — connecting the
 | Area | What I build |
 | :--- | :--- |
 | **FiveM · S-Service** | Character creation, HUDs, housing, fishing, and server resources with configurable framework integrations. |
+| **SevenLife Network** | My network project, including WebGL development and custom game interfaces. |
 | **UI & interaction** | Custom game interfaces, radial menus, job centers, and reusable UI elements. |
 | **Discord tooling** | Modular bots with welcome flows, verification, tickets, and community management features. |
 
@@ -37,6 +38,12 @@ I build **FiveM resources, Discord bots, and web interfaces** — connecting the
 ![C Sharp](https://img.shields.io/badge/C%23-101820?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-101820?style=for-the-badge&logo=html5&logoColor=57E7D7)
 ![CSS3](https://img.shields.io/badge/CSS3-101820?style=for-the-badge)
+
+**Graphics & game development**
+
+![WebGL](https://img.shields.io/badge/WebGL-101820?style=for-the-badge&logo=webgl&logoColor=57E7D7)
+![FiveM](https://img.shields.io/badge/FiveM-101820?style=for-the-badge&logo=fivem&logoColor=57E7D7)
+![FiveM NUI](https://img.shields.io/badge/FiveM_NUI-101820?style=for-the-badge)
 
 **Backend & data**
 

@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Christian — Developer at S-Service. Game systems, web interfaces, community tools." width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Chrisi816"><img src="https://img.shields.io/badge/Chrisi816-101820?style=for-the-badge&logo=github&logoColor=57E7D7" alt="GitHub: Chrisi816" /></a>
   <a href="https://discord.gg/s-service"><img src="https://img.shields.io/badge/S--Service-101820?style=for-the-badge&logo=discord&logoColor=57E7D7" alt="S-Service Discord" /></a>
 </p>
